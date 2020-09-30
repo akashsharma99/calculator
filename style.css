@@ -2,6 +2,11 @@ body{
     font-family:'Open Sans',sans-serif;
     background-color:blueviolet;
 }
+.container{
+  margin: auto;
+  width: fit-content;
+  
+}
 #calculator{
     width:320px;
     height:565px;
